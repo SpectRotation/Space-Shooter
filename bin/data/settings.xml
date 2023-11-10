@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<group>
+	<Spawn_Rate>1</Spawn_Rate>
+	<Lifespan>5</Lifespan>
+	<Enemy_Velocity>0, -200, 0</Enemy_Velocity>
+	<Enemy_Scale>0.5</Enemy_Scale>
+	<Enemy_Rotation_Speed__deg_Frame_>0</Enemy_Rotation_Speed__deg_Frame_>
+	<Target_Speed>3</Target_Speed>
+	<Target_Scale>1</Target_Scale>
+	<Target_Rotation_Speed__deg_Frame_>2</Target_Rotation_Speed__deg_Frame_>
+</group>

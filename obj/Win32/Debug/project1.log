@@ -1,0 +1,20 @@
+﻿  Emitter.cpp
+  ofApp.cpp
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+c:\users\mik-f\of_v0.11.2_vs2017_release\apps\myapps\project1\src\ofapp.cpp(317): warning C4018: '<': signed/unsigned mismatch
+c:\users\mik-f\of_v0.11.2_vs2017_release\apps\myapps\project1\src\ofapp.cpp(502): warning C4018: '<': signed/unsigned mismatch
+c:\users\mik-f\of_v0.11.2_vs2017_release\apps\myapps\project1\src\ofapp.cpp(607): warning C4018: '<': signed/unsigned mismatch
+c:\users\mik-f\of_v0.11.2_vs2017_release\apps\myapps\project1\src\emitter.cpp(74): warning C4018: '<': signed/unsigned mismatch
+c:\users\mik-f\of_v0.11.2_vs2017_release\apps\myapps\project1\src\emitter.cpp(83): warning C4018: '<': signed/unsigned mismatch
+c:\users\mik-f\of_v0.11.2_vs2017_release\apps\myapps\project1\src\emitter.cpp(89): warning C4018: '<': signed/unsigned mismatch
+c:\users\mik-f\of_v0.11.2_vs2017_release\apps\myapps\project1\src\emitter.cpp(95): warning C4018: '<': signed/unsigned mismatch
+c:\users\mik-f\of_v0.11.2_vs2017_release\apps\myapps\project1\src\emitter.cpp(304): warning C4018: '<': signed/unsigned mismatch
+  project1.vcxproj -> C:\Users\mik-f\of_v0.11.2_vs2017_release\apps\myApps\project1\bin\project1_debug.exe
+  
+  	                   2	C:\Users\mik-f\of_v0.11.2_vs2017_release\libs\fmod\lib\vs\Win32\
+  	  *ДОПОЛНИТЕЛЬНЫЙ файл		 6018560	C:\Users\mik-f\of_v0.11.2_vs2017_release\apps\myApps\project1\bin\FreeImage.dll
+  
+  	                   1	C:\Users\mik-f\of_v0.11.2_vs2017_release\libs\FreeImage\lib\vs\Win32\
+  	  *ДОПОЛНИТЕЛЬНЫЙ файл		 1544704	C:\Users\mik-f\of_v0.11.2_vs2017_release\apps\myApps\project1\bin\fmod.dll
+  	  *ДОПОЛНИТЕЛЬНЫЙ файл		 1733120	C:\Users\mik-f\of_v0.11.2_vs2017_release\apps\myApps\project1\bin\fmodL.dll

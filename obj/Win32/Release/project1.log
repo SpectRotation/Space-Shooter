@@ -1,0 +1,15 @@
+﻿  ofApp.cpp
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+c:\users\mik-f\of_v0.11.2_vs2017_release\apps\myapps\project1\src\ofapp.cpp(373): warning C4018: '<': signed/unsigned mismatch
+c:\users\mik-f\of_v0.11.2_vs2017_release\apps\myapps\project1\src\ofapp.cpp(660): warning C4018: '<': signed/unsigned mismatch
+c:\users\mik-f\of_v0.11.2_vs2017_release\apps\myapps\project1\src\ofapp.cpp(794): warning C4018: '<': signed/unsigned mismatch
+     Creating library bin\project1.lib and object bin\project1.exp
+  LINK : /LTCG specified but no code generation required; remove /LTCG from the link command line to improve linker performance
+  project1.vcxproj -> C:\Users\mik-f\of_v0.11.2_vs2017_release\apps\myApps\project1\bin\project1.exe
+  
+  	                   2	C:\Users\mik-f\of_v0.11.2_vs2017_release\libs\fmod\lib\vs\Win32\
+  	  *ДОПОЛНИТЕЛЬНЫЙ файл		 6018560	C:\Users\mik-f\of_v0.11.2_vs2017_release\apps\myApps\project1\bin\FreeImage.dll
+  
+  	                   1	C:\Users\mik-f\of_v0.11.2_vs2017_release\libs\FreeImage\lib\vs\Win32\
+  	  *ДОПОЛНИТЕЛЬНЫЙ файл		 1544704	C:\Users\mik-f\of_v0.11.2_vs2017_release\apps\myApps\project1\bin\fmod.dll
+  	  *ДОПОЛНИТЕЛЬНЫЙ файл		 1733120	C:\Users\mik-f\of_v0.11.2_vs2017_release\apps\myApps\project1\bin\fmodL.dll
